@@ -31,7 +31,7 @@ function Wheather() {
   return (
     <>
       <div className="w-[90%] self-center align-content-center  md:w-[50%] mx-auto mt-10">
-        <article className=" w-fit hover:animate-background rounded-xl bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 p-0.5 shadow-xl transition hover:bg-[length:400%_400%] hover:shadow-sm hover:[animation-duration:_4s]">
+        <article className=" w-fit rounded-xl bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 p-0.5 shadow-xl transition ">
           <div className="rounded-[10px] bg-slate p-4 !pt-20 sm:p-6">
             <div>
               <h1 className="text-3xl text-center mb-4">Wheather App</h1>
